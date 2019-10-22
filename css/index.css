@@ -1,0 +1,12 @@
+body {
+    font-size: small;
+    font-family: Arial, sans-serif;
+    height: 100%;
+    margin: 0;
+}
+.container{
+    padding: 0 10px;
+}
+.header {
+    padding-top: 10px;
+}

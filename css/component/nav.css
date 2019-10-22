@@ -1,0 +1,22 @@
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+.nav > li {
+    float: left;
+}
+
+.nav > li a {
+    display: block;
+    text-align: center;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.nav > li a:hover {
+    text-decoration: underline;
+}

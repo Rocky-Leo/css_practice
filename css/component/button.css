@@ -1,0 +1,12 @@
+.btn {
+    color: #ffffff;
+    padding: 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn-primary {
+    background-color: #4683ea;
+    color: #ffffff;
+}
