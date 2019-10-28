@@ -16,15 +16,13 @@ html, body {
     padding-top: 100px;
 }
 .footer {
-    /*clear: both;*/
-    /*position: relative;*/
+    vertical-align: middle;
+    position: fixed;
     background: #f2f2f2;
-    /*line-height: 40px;*/
-    /*min-width: 980px;*/
     height: 82px;
     bottom: 0;
-    /*min-height: 100%;*/
+    left: 0;
     border-top: 1px solid #e4e4e4;
-    /*margin-top: -82px;*/
-    /*padding-bottom: -82px;*/
+    width: 100%;
+
 }

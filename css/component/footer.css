@@ -1,10 +1,32 @@
-.region {
+.footer-top-bar {
     border-top: 1px solid #e4e4e4;
     border-bottom: 1px solid #e4e4e4;
     height: 41px;
+}
+.footer-top-bar span {
+    padding: 10px 30px;
+    color: #0000EE;
+}
+
+.footer-bottom-bar {
     padding: 0 20px;
 }
-.detail {
-    padding: 0 20px;
+.footer-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.footer-nav > li {
+    float: left;
+}
+.footer-nav > li a {
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
 
+.footer-nav > li a:hover {
+    text-decoration: underline;
 }
