@@ -1,0 +1,36 @@
+.logo {
+    height: 233px;
+    text-align: center;
+
+}
+.logo img {
+    height: 92px;
+    width: 272px;
+    padding-top: 109px;
+    padding-bottom: 0px;
+
+}
+
+.search-field {
+    width: 100%;
+    text-align: center;
+    outline: none;
+    border: none;
+}
+
+.search-field input{
+    width: 582px;
+    height: 44px;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+}
+
+.img-display {
+    background: url("../../img/search.png")left no-repeat,url("../../img/mic.png")right no-repeat;
+
+    padding-left: 5px;
+
+}
+
+
