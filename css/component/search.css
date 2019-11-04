@@ -1,8 +1,4 @@
 .search-field {
-    /*width: 100%;*/
-    /*text-align: center;*/
-    /*outline: none;*/
-    /*border: none;*/
     background: #fff;
     display: flex;
     border-radius: 8px;
@@ -47,4 +43,17 @@
     border: none;
 }
 
+.detail-search-field {
+    height: 39px;
+    width: 638px;
+    padding-left: 27px;
+    margin: 20px 0;
+}
 
+.detail-search-icon {
+    color: #4285f4;
+}
+
+.detail-search-icon img {
+    color: #4285f4;
+}

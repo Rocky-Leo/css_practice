@@ -10,3 +10,15 @@
     padding-bottom: 0px;
 
 }
+
+.small-logo {
+    /*padding: 0 32px;*/
+    padding: 4px 28px 0 30px;
+    margin-top: 20px;
+}
+
+.small-logo img {
+    height: 28px;
+    width: 86px;
+
+}
