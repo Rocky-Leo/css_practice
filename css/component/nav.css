@@ -20,3 +20,9 @@
 .nav > li a:hover {
     text-decoration: underline;
 }
+
+.detail-nav {
+    height: 48px;
+    margin: 20px 10px;
+    padding-left: 32px;
+}
