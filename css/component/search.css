@@ -35,23 +35,25 @@
 
 .mic-icon {
     border: none;
-    padding-right: 5px;
+    padding-right: 30px;
     width: 24px;
 
 }
 .mic-icon img {
     border: none;
+    margin: -1px;
 }
 
 .detail-search-field {
     height: 39px;
     width: 638px;
-    padding-left: 27px;
+    /*margin-left: 27px;*/
     margin: 20px 0;
 }
 
 .detail-search-icon {
     color: #4285f4;
+    margin-right: 13px;
 }
 
 .detail-search-icon img {
