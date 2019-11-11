@@ -22,9 +22,9 @@
 }
 
 .detail-nav {
+    float: right;
     height: 48px;
     margin: 20px 10px;
-    padding-left: 32px;
 }
 
 .menu-nav {

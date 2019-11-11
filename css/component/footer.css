@@ -20,6 +20,13 @@
     padding: 0;
     overflow: hidden;
 }
+.footer-detail-top-nav {
+    padding: 10px 30px;
+    margin-left: 135px;
+}
+.footer-detail-top-nav span {
+    padding: 10px 5px;
+}
 .footer-bottom-nav > li {
     float: left;
 }
